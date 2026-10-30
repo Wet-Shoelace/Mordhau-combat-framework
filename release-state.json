@@ -1,0 +1,15 @@
+{
+  "version": "v1-source-preview",
+  "repository_visibility": "public",
+  "public_release_ready": false,
+  "playable_download": false,
+  "local_importer_implemented": false,
+  "blockers": [
+    "Complete EXE-plus-paks local data importer",
+    "Exact PhysX extension redistribution rights or replacement",
+    "Source/dependency provenance and final binary packaging review",
+    "Clean-install startup and combat verification",
+    "Final executable and archive independent asset audit",
+    "Custom presentation and corrected hit effects functional validation"
+  ]
+}
